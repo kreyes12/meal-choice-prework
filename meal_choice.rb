@@ -6,4 +6,3 @@ def meal_choice(default="meat", choice)
   puts default
 end
 
-meal_choice()
