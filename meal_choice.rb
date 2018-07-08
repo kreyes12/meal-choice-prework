@@ -3,6 +3,5 @@
 
 def meal_choice(default="meat")
   return choice
-  return default
 end
 
