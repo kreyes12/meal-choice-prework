@@ -5,6 +5,6 @@
 def meal_choice(default="meat")
   choice = "vegan"
   return choice
-  
+  return default
 end
 
